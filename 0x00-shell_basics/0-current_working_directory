@@ -1,2 +1,2 @@
 #!/bin/bash
-dir_path=$(0x00-shell_basics $full_path)
+cat > 0-current_working_directory
